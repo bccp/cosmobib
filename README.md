@@ -14,7 +14,7 @@ Useful Latex macros (If you see errors on `\mnras` or `apj`):
 - AAS acronyms : `https://raw.githubusercontent.com/bccp/cosmobib/master/aas_macros.sty`
 
 ```
-\documentstyle{article}
+\documentclass{article}
 
 ...
 ...
