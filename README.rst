@@ -15,11 +15,11 @@ Use in Overleaf
 
 - Preprints : https://raw.githubusercontent.com/bccp/cosmobib/master/cosmo_preprints.bib
 
-3. Add the following macros (esp if you see errors on `\mnras` or `apj`):
+3. Add the following macros (esp if you see errors on :code:`\mnras` or :code:`\apj`):
 
 - AAS acronyms : https://raw.githubusercontent.com/bccp/cosmobib/master/aas_macros.sty
 
-4. Refresh the Overleaf cache of files by right-clicking on the file name ane select `Refresh``.
+4. Refresh the Overleaf cache of files by right-clicking on the file name ane select `Refresh`.
 
 Example
 +++++++
