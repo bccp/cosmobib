@@ -19,7 +19,10 @@ Use in Overleaf
 
 - AAS acronyms : https://raw.githubusercontent.com/bccp/cosmobib/master/aas_macros.sty
 
-Example latex script
+4. Refresh the Overleaf cache of files by right-clicking on the file name ane select `Refresh``.
+
+Example
++++++++
 
 .. code:: latex
 
@@ -42,3 +45,5 @@ Example latex script
 
     ...
     ...
+
+
