@@ -11,13 +11,13 @@ Use in Overleaf
 
 2. Add the following bibtex files:
 
-- Main : https://raw.githubusercontent.com/bccp/cosmobib/master/cosmo.bib
+- Main : https://www.dropbox.com/s/t25p3aq92ndpl8y/cosmo.bib?dl=0
 
-- Preprints : https://raw.githubusercontent.com/bccp/cosmobib/master/cosmo_preprints.bib
+- Preprints : https://www.dropbox.com/s/5m12gkht1zh48h5/cosmo_preprints.bib?dl=0
 
 3. Add the following macros (esp if you see errors on :code:`\mnras` or :code:`\apj`):
 
-- AAS acronyms : https://raw.githubusercontent.com/bccp/cosmobib/master/aas_macros.sty
+- AAS acronyms : https://www.dropbox.com/s/e2a6yy8cvtnn5ug/aas_macros.sty?dl=0
 
 4. Refresh the Overleaf cache of files by right-clicking on the file name ane select `Refresh`.
 
